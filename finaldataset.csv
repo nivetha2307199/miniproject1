@@ -1,0 +1,501 @@
+,Title,Duration,Rating,Voting,Genre
+0, Kraven the Hunter,2h 7m,5.5,52000.0,Action
+1, Gladiator II,2h 28m,6.5,224000.0,Action
+2, Twisters,2h 2m,6.5,165000.0,Action
+3, Sonic the Hedgehog 3,1h 50m,6.9,56000.0,Action
+4, Venom: The Last Dance,1h 50m,6.0,114000.0,Action
+5, Deadpool & Wolverine,2h 8m,7.6,487000.0,Action
+6, Pushpa: The Rule - Part 2,3h 21m,6.1,55000.0,Action
+7, Dune: Part Two,2h 46m,8.5,620000.0,Action
+8, The Ministry of Ungentlemanly Warfare,2h 2m,6.8,134000.0,Action
+9, Freaky Tales,1h 46m,7.1,743000.0,Action
+10, The Beekeeper,1h 45m,6.3,155000.0,Action
+11, Carry-On,1h 59m,6.5,163000.0,Action
+12, Furiosa: A Mad Max Saga,2h 28m,7.5,283000.0,Action
+13, Civil War,1h 49m,7.0,235000.0,Action
+14, Fight or Flight,1h 37m,6.4,5900.0,Action
+15, Solo Leveling: ReAwakening,2h 1m,8.9,11000.0,Action
+16, Borderlands,1h 41m,4.7,47000.0,Action
+17, Elevation,1h 31m,5.6,21000.0,Action
+18, The Fall Guy,2h 6m,6.8,219000.0,Action
+19, The Count of Monte-Cristo,2h 58m,7.6,33000.0,Action
+20, Transformers One,1h 44m,7.6,49000.0,Action
+21, Hellboy: The Crooked Man,1h 39m,4.5,13000.0,Action
+22, The Lord of the Rings: The War of the Rohirrim,2h 14m,6.3,29000.0,Action
+23, The Crow,1h 51m,4.7,34000.0,Action
+24, William Tell,2h 13m,5.7,2200.0,Action
+25, Madame Web,1h 56m,4.0,100000.0,Action
+26, Rebel Ridge,2h 11m,6.8,87000.0,Action
+27, Road House,2h 1m,6.2,167000.0,Action
+28, Bad Boys: Ride or Die,1h 55m,6.5,99000.0,Action
+29, Kingdom of the Planet of the Apes,2h 25m,6.9,151000.0,Action
+30, Godzilla x Kong: The New Empire,1h 55m,6.0,121000.0,Action
+31, Argylle,2h 19m,5.6,92000.0,Action
+32, Marco,2h 25m,6.9,21000.0,Action
+33, Damsel,1h 50m,6.1,109000.0,Action
+34, Red One,2h 3m,6.3,139000.0,Action
+35, Homestead,1h 52m,5.3,3500.0,Action
+36, Love Lies Bleeding,1h 44m,6.6,56000.0,Action
+37, The Killer's Game,1h 44m,5.8,17000.0,Action
+38, Land of Bad,1h 53m,6.6,51000.0,Action
+39, Monkey Man,2h 1m,6.8,91000.0,Action
+40, Uglies,1h 40m,4.7,32000.0,Action
+41, Old Guy,1h 34m,5.2,2200.0,Action
+42, Dirty Angels,1h 44m,4.3,3300.0,Action
+43, Blitz,2h,6.2,16000.0,Action
+44, The Union,1h 47m,5.4,53000.0,Action
+45, Kung Fu Panda 4,1h 34m,6.3,67000.0,Action
+46, Toofan,2h 25m,7.4,7500.0,Action
+47, Thelma,1h 38m,7.0,22000.0,Action
+48, Arcadian,1h 32m,5.5,23000.0,Action
+49, Attack on Titan the Movie: The Last Attack,2h 25m,9.2,15000.0,Action
+50, Gunner,1h 46m,3.2,2500.0,Action
+51, Lift,1h 47m,5.5,49000.0,Action
+52, Werewolves,1h 33m,4.4,6300.0,Action
+53, The Killer,2h 6m,5.7,13000.0,Action
+54, Aftermath,1h 37m,5.1,3800.0,Action
+55, Beverly Hills Cop: Axel F,1h 58m,6.4,81000.0,Action
+56, Maharaja,2h 21m,8.4,66000.0,Action
+57, Survive,1h 30m,4.6,2300.0,Action
+58, The Instigators,1h 41m,6.2,37000.0,Action
+59, Twilight of the Warriors: Walled In,2h 6m,7.0,9300.0,Action
+60, Drive-Away Dolls,1h 24m,5.4,23000.0,Action
+61, Absolution,1h 52m,5.2,7700.0,Action
+62, Apocalypse Z: The Beginning of the End,1h 57m,6.1,20000.0,Action
+63, Azrael,1h 26m,5.4,10000.0,Action
+64, Classified,1h 45m,3.6,2400.0,Action
+65, Atlas,1h 58m,5.6,56000.0,Action
+66, The Prosecutor,1h 57m,6.7,1700.0,Action
+67, Rebel Moon - Part Two: The Scargiver,2h 2m,5.3,59000.0,Action
+68, Descendants: The Rise of Red,1h 31m,4.7,7000.0,Action
+69, Kalki 2898 AD,3h,7.0,66000.0,Action
+70, Long Gone Heroes,1h 41m,5.2,1000.0,Action
+71, Brothers,1h 29m,5.4,13000.0,Action
+72, Canary Black,1h 41m,5.3,11000.0,Action
+73, Under Paris,1h 44m,5.2,36000.0,Action
+74, Trigger Warning,1h 46m,4.6,19000.0,Action
+75, Armor,1h 29m,3.6,3700.0,Action
+76, Watchmen: Chapter I,1h 23m,7.0,6400.0,Action
+77, One More Shot,1h 43m,5.4,3600.0,Action
+78, Amaran,2h 47m,8.2,18000.0,Action
+79, The Shadow Strays,2h 24m,6.5,9100.0,Action
+80, Jackpot!,1h 46m,5.8,30000.0,Action
+81, Cash Out,1h 32m,4.8,2900.0,Action
+82, Weekend in Taipei,1h 40m,5.7,4500.0,Action
+83, The Silent Hour,1h 39m,6.1,7300.0,Action
+84, Duchess,1h 54m,4.6,1300.0,Action
+85, Watchmen: Chapter II,1h 30m,7.0,2900.0,Action
+86, Red Right Hand,1h 51m,5.5,5800.0,Action
+87, Chief of Station,1h 37m,4.7,4600.0,Action
+88, Fighter,2h 46m,6.2,52000.0,Action
+89, Boneyard,1h 36m,4.1,4900.0,Action
+90, Rogue Elements: A Ryan Drake Story,44m,4.7,946000.0,Action
+91, Hitpig,1h 26m,5.1,905000.0,Action
+92, Aavesham,2h 35m,7.8,28000.0,Action
+93, Karma,2h 47m,8.0,1400.0,Action
+94, Harbin,1h 48m,6.4,558000.0,Action
+95, Baby Invasion,1h 20m,4.6,388000.0,Action
+96, Uprising,2h 6m,6.6,5400.0,Action
+97, No Way Up,1h 30m,4.6,10000.0,Action
+98, Baby John,2h 39m,5.4,17000.0,Action
+99, Megamind vs The Doom Syndicate,1h 23m,2.5,5500.0,Action
+0, Anora,2h 19m,7.5,174000.0,Comedy
+1, Moana 2,1h 40m,6.6,98000.0,Comedy
+2, A Real Pain,1h 30m,7.1,84000.0,Comedy
+3, Sonic the Hedgehog 3,1h 50m,6.9,56000.0,Comedy
+4, Y2K,1h 31m,4.8,12000.0,Comedy
+5, Deadpool & Wolverine,2h 8m,7.6,487000.0,Comedy
+6, The Ministry of Ungentlemanly Warfare,2h 2m,6.8,134000.0,Comedy
+7, Freaky Tales,1h 46m,7.1,743000.0,Comedy
+8, The Day the Earth Blew Up: A Looney Tunes Movie,1h 31m,7.0,3600.0,Comedy
+9, Riff Raff,1h 43m,5.7,2600.0,Comedy
+10, Fight or Flight,1h 37m,6.4,5900.0,Comedy
+11, Emilia Pérez,2h 12m,5.4,87000.0,Comedy
+12, Borderlands,1h 41m,4.7,47000.0,Comedy
+13, Paddington in Peru,1h 46m,6.7,19000.0,Comedy
+14, Sacramento,1h 24m,5.6,519000.0,Comedy
+15, The Fall Guy,2h 6m,6.8,219000.0,Comedy
+16, Saturday Night,1h 49m,6.9,30000.0,Comedy
+17, Beetlejuice Beetlejuice,1h 45m,6.7,146000.0,Comedy
+18, Despicable Me 4,1h 34m,6.2,64000.0,Comedy
+19, Challengers,2h 11m,7.0,153000.0,Comedy
+20, Inside Out 2,1h 36m,7.5,215000.0,Comedy
+21, Kinds of Kindness,2h 44m,6.5,59000.0,Comedy
+22, A Different Man,1h 52m,6.9,28000.0,Comedy
+23, Bad Boys: Ride or Die,1h 55m,6.5,99000.0,Comedy
+24, The Idea of You,1h 55m,6.3,73000.0,Comedy
+25, My Old Ass,1h 29m,6.9,38000.0,Comedy
+26, Argylle,2h 19m,5.6,92000.0,Comedy
+27, It's What's Inside,1h 43m,6.6,41000.0,Comedy
+28, Dead Talents Society,1h 51m,7.0,1600.0,Comedy
+29, IF,1h 44m,6.4,58000.0,Comedy
+30, A Nice Indian Boy,1h 36m,7.8,303000.0,Comedy
+31, Ricky Stanicky,1h 53m,6.2,56000.0,Comedy
+32, Ghostbusters: Frozen Empire,1h 55m,6.1,93000.0,Comedy
+33, Red One,2h 3m,6.3,139000.0,Comedy
+34, Fly Me to the Moon,2h 12m,6.6,49000.0,Comedy
+35, Friendship,1h 40m,7.4,256000.0,Comedy
+36, Nightbitch,1h 39m,5.5,19000.0,Comedy
+37, Bob Trevino Likes It,1h 41m,8.0,692000.0,Comedy
+38, The Killer's Game,1h 44m,5.8,17000.0,Comedy
+39, Snack Shack,1h 52m,7.0,12000.0,Comedy
+40, My Dead Friend Zoe,1h 43m,6.7,2000.0,Comedy
+41, Old Guy,1h 34m,5.2,2200.0,Comedy
+42, Kneecap,1h 45m,7.6,17000.0,Comedy
+43, F*** Marry Kill,1h 37m,5.3,2200.0,Comedy
+44, Miller's Girl,1h 33m,5.2,23000.0,Comedy
+45, The Union,1h 47m,5.4,53000.0,Comedy
+46, Kung Fu Panda 4,1h 34m,6.3,67000.0,Comedy
+47, Chosen Family,1h 28m,4.7,359000.0,Comedy
+48, Mean Girls,1h 52m,5.5,37000.0,Comedy
+49, Thelma,1h 38m,7.0,22000.0,Comedy
+50, A Family Affair,1h 51m,5.4,36000.0,Comedy
+51, Misericordia,1h 44m,6.9,1900.0,Comedy
+52, Spermageddon,1h 20m,5.8,751000.0,Comedy
+53, Lift,1h 47m,5.5,49000.0,Comedy
+54, Upgraded,1h 44m,6.1,29000.0,Comedy
+55, Holy Cow,1h 32m,7.2,1400.0,Comedy
+56, Beverly Hills Cop: Axel F,1h 58m,6.4,81000.0,Comedy
+57, The Instigators,1h 41m,6.2,37000.0,Comedy
+58, Distant,1h 27m,5.7,3100.0,Comedy
+59, The Garfield Movie,1h 41m,5.7,24000.0,Comedy
+60, The Marching Band,1h 43m,7.4,2600.0,Comedy
+61, Mittran Da Challeya Truck Ni,2h 11m,8.1,862000.0,Comedy
+62, Spellbound,1h 49m,5.6,7200.0,Comedy
+63, Incoming,1h 31m,5.8,14000.0,Comedy
+64, Drive-Away Dolls,1h 24m,5.4,23000.0,Comedy
+65, Harold and the Purple Crayon,1h 30m,5.7,8200.0,Comedy
+66, Eephus,1h 39m,7.2,460000.0,Comedy
+67, Greedy People,1h 52m,6.2,11000.0,Comedy
+68, Get Away,1h 26m,5.3,6600.0,Comedy
+69, Wallace & Gromit: Vengeance Most Fowl,1h 22m,7.5,34000.0,Comedy
+70, Sister Midnight,1h 47m,6.6,362000.0,Comedy
+71, Hard Truths,1h 37m,7.3,5000.0,Comedy
+72, Night of the Zoopocalypse,1h 31m,6.1,488000.0,Comedy
+73, Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write about a Serial Killer,1h 42m,8.6,92000.0,Comedy
+74, Goodrich,1h 50m,6.3,5100.0,Comedy
+75, Rumours,1h 44m,5.0,4500.0,Comedy
+76, Brothers,1h 29m,5.4,13000.0,Comedy
+77, Your Monster,1h 43m,6.4,5700.0,Comedy
+78, The Mouse Trap,1h 20m,2.4,3200.0,Comedy
+79, Superboys of Malegaon,2h 7m,8.0,1400.0,Comedy
+80, How to Make Millions Before Grandma Dies,2h 5m,8.0,13000.0,Comedy
+81, Teri Baaton Mein Aisa Uljha Jiya,2h 21m,6.2,54000.0,Comedy
+82, Bloody Axe Wound,1h 23m,4.9,781000.0,Comedy
+83, Ghostlight,1h 55m,7.6,5800.0,Comedy
+84, Lisa Frankenstein,1h 41m,6.1,28000.0,Comedy
+85, Stree 2: Sarkate Ka Aatank,2h 27m,6.9,42000.0,Comedy
+86, Jackpot!,1h 46m,5.8,30000.0,Comedy
+87, Unfrosted,1h 37m,5.5,35000.0,Comedy
+88, Modi: Three Days on the Wing of Madness,1h 50m,5.6,506000.0,Comedy
+89, When Fall Is Coming,1h 44m,6.8,1500.0,Comedy
+90, The 4:30 Movie,1h 27m,6.0,3600.0,Comedy
+91, Winner,1h 43m,6.5,2400.0,Comedy
+92, Dìdi,1h 33m,7.3,12000.0,Comedy
+93, The Visitor,1h 41m,4.4,204000.0,Comedy
+94, Mother of the Bride,1h 28m,4.8,17000.0,Comedy
+95, Piece by Piece,1h 33m,6.9,5300.0,Comedy
+96, Sketch,1h 32m,8.4,47000.0,Comedy
+97, The Uninvited,1h 37m,5.9,154000.0,Comedy
+98, Four Mothers,1h 29m,7.4,152000.0,Comedy
+99, Manamey,2h 35m,5.4,657000.0,Comedy
+0, Anora,2h 19m,7.5,174000.0,Drama
+1, Moana 2,1h 40m,6.6,98000.0,Drama
+2, A Real Pain,1h 30m,7.1,84000.0,Drama
+3, Sonic the Hedgehog 3,1h 50m,6.9,56000.0,Drama
+4, Y2K,1h 31m,4.8,12000.0,Drama
+5, Deadpool & Wolverine,2h 8m,7.6,487000.0,Drama
+6, The Ministry of Ungentlemanly Warfare,2h 2m,6.8,134000.0,Drama
+7, Freaky Tales,1h 46m,7.1,743000.0,Drama
+8, The Day the Earth Blew Up: A Looney Tunes Movie,1h 31m,7.0,3600.0,Drama
+9, Riff Raff,1h 43m,5.7,2600.0,Drama
+10, Fight or Flight,1h 37m,6.4,5900.0,Drama
+11, Emilia Pérez,2h 12m,5.4,87000.0,Drama
+12, Borderlands,1h 41m,4.7,47000.0,Drama
+13, Paddington in Peru,1h 46m,6.7,19000.0,Drama
+14, Sacramento,1h 24m,5.6,519000.0,Drama
+15, The Fall Guy,2h 6m,6.8,219000.0,Drama
+16, Saturday Night,1h 49m,6.9,30000.0,Drama
+17, Beetlejuice Beetlejuice,1h 45m,6.7,146000.0,Drama
+18, Despicable Me 4,1h 34m,6.2,64000.0,Drama
+19, Challengers,2h 11m,7.0,153000.0,Drama
+20, Inside Out 2,1h 36m,7.5,215000.0,Drama
+21, Kinds of Kindness,2h 44m,6.5,59000.0,Drama
+22, A Different Man,1h 52m,6.9,28000.0,Drama
+23, Bad Boys: Ride or Die,1h 55m,6.5,99000.0,Drama
+24, The Idea of You,1h 55m,6.3,73000.0,Drama
+25, My Old Ass,1h 29m,6.9,38000.0,Drama
+26, Argylle,2h 19m,5.6,92000.0,Drama
+27, It's What's Inside,1h 43m,6.6,41000.0,Drama
+28, Dead Talents Society,1h 51m,7.0,1600.0,Drama
+29, IF,1h 44m,6.4,58000.0,Drama
+30, A Nice Indian Boy,1h 36m,7.8,303000.0,Drama
+31, Ricky Stanicky,1h 53m,6.2,56000.0,Drama
+32, Ghostbusters: Frozen Empire,1h 55m,6.1,93000.0,Drama
+33, Red One,2h 3m,6.3,139000.0,Drama
+34, Fly Me to the Moon,2h 12m,6.6,49000.0,Drama
+35, Friendship,1h 40m,7.4,256000.0,Drama
+36, Nightbitch,1h 39m,5.5,19000.0,Drama
+37, Bob Trevino Likes It,1h 41m,8.0,692000.0,Drama
+38, The Killer's Game,1h 44m,5.8,17000.0,Drama
+39, Snack Shack,1h 52m,7.0,12000.0,Drama
+40, My Dead Friend Zoe,1h 43m,6.7,2000.0,Drama
+41, Old Guy,1h 34m,5.2,2200.0,Drama
+42, Kneecap,1h 45m,7.6,17000.0,Drama
+43, F*** Marry Kill,1h 37m,5.3,2200.0,Drama
+44, Miller's Girl,1h 33m,5.2,23000.0,Drama
+45, The Union,1h 47m,5.4,53000.0,Drama
+46, Kung Fu Panda 4,1h 34m,6.3,67000.0,Drama
+47, Chosen Family,1h 28m,4.7,359000.0,Drama
+48, Mean Girls,1h 52m,5.5,37000.0,Drama
+49, Thelma,1h 38m,7.0,22000.0,Drama
+50, A Family Affair,1h 51m,5.4,36000.0,Drama
+51, Misericordia,1h 44m,6.9,1900.0,Drama
+52, Spermageddon,1h 20m,5.8,751000.0,Drama
+53, Lift,1h 47m,5.5,49000.0,Drama
+54, Upgraded,1h 44m,6.1,29000.0,Drama
+55, Holy Cow,1h 32m,7.2,1400.0,Drama
+56, Beverly Hills Cop: Axel F,1h 58m,6.4,81000.0,Drama
+57, The Instigators,1h 41m,6.2,37000.0,Drama
+58, Distant,1h 27m,5.7,3100.0,Drama
+59, The Garfield Movie,1h 41m,5.7,24000.0,Drama
+60, The Marching Band,1h 43m,7.4,2600.0,Drama
+61, Mittran Da Challeya Truck Ni,2h 11m,8.1,862000.0,Drama
+62, Spellbound,1h 49m,5.6,7200.0,Drama
+63, Incoming,1h 31m,5.8,14000.0,Drama
+64, Drive-Away Dolls,1h 24m,5.4,23000.0,Drama
+65, Harold and the Purple Crayon,1h 30m,5.7,8200.0,Drama
+66, Eephus,1h 39m,7.2,460000.0,Drama
+67, Greedy People,1h 52m,6.2,11000.0,Drama
+68, Get Away,1h 26m,5.3,6500.0,Drama
+69, Wallace & Gromit: Vengeance Most Fowl,1h 22m,7.5,34000.0,Drama
+70, Sister Midnight,1h 47m,6.6,362000.0,Drama
+71, Hard Truths,1h 37m,7.3,5000.0,Drama
+72, Night of the Zoopocalypse,1h 31m,6.1,488000.0,Drama
+73, Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write about a Serial Killer,1h 42m,8.6,92000.0,Drama
+74, Goodrich,1h 50m,6.3,5100.0,Drama
+75, Rumours,1h 44m,5.0,4500.0,Drama
+76, Brothers,1h 29m,5.4,13000.0,Drama
+77, Your Monster,1h 43m,6.4,5700.0,Drama
+78, The Mouse Trap,1h 20m,2.4,3200.0,Drama
+79, Superboys of Malegaon,2h 7m,8.0,1400.0,Drama
+80, How to Make Millions Before Grandma Dies,2h 5m,8.0,13000.0,Drama
+81, Teri Baaton Mein Aisa Uljha Jiya,2h 21m,6.2,54000.0,Drama
+82, Bloody Axe Wound,1h 23m,4.9,781000.0,Drama
+83, Ghostlight,1h 55m,7.6,5800.0,Drama
+84, Lisa Frankenstein,1h 41m,6.1,28000.0,Drama
+85, Stree 2: Sarkate Ka Aatank,2h 27m,6.9,42000.0,Drama
+86, Jackpot!,1h 46m,5.8,30000.0,Drama
+87, Unfrosted,1h 37m,5.5,35000.0,Drama
+88, Modi: Three Days on the Wing of Madness,1h 50m,5.6,506000.0,Drama
+89, When Fall Is Coming,1h 44m,6.8,1500.0,Drama
+90, The 4:30 Movie,1h 27m,6.0,3600.0,Drama
+91, Winner,1h 43m,6.5,2400.0,Drama
+92, Dìdi,1h 33m,7.3,12000.0,Drama
+93, The Visitor,1h 41m,4.4,203000.0,Drama
+94, Mother of the Bride,1h 28m,4.8,17000.0,Drama
+95, Piece by Piece,1h 33m,6.9,5300.0,Drama
+96, Sketch,1h 32m,8.4,47000.0,Drama
+97, The Uninvited,1h 37m,5.9,154000.0,Drama
+98, Four Mothers,1h 29m,7.4,152000.0,Drama
+99, Manamey,2h 35m,5.4,657000.0,Drama
+0, Anora,2h 19m,7.5,174000.0,Romance
+1, Wicked,2h 40m,7.5,153000.0,Romance
+2, Babygirl,1h 54m,5.9,51000.0,Romance
+3, Queer,2h 17m,6.4,20000.0,Romance
+4, It Ends with Us,2h 10m,6.4,84000.0,Romance
+5, Mon Potongo,2h 29m,6.9,291000.0,Romance
+6, We Live in Time,1h 48m,7.0,50000.0,Romance
+7, The Fall Guy,2h 6m,6.8,219000.0,Romance
+8, The Count of Monte-Cristo,2h 58m,7.6,33000.0,Romance
+9, Ask Me What You Want,1h 54m,3.7,541000.0,Romance
+10, Challengers,2h 11m,7.0,153000.0,Romance
+11, The Crow,1h 51m,4.7,34000.0,Romance
+12, The Idea of You,1h 55m,6.3,73000.0,Romance
+13, My Old Ass,1h 29m,6.9,38000.0,Romance
+14, Love Across Time,1h 36m,7.2,546000.0,Romance
+15, A Nice Indian Boy,2h 12m,7.8,306000.0,Romance
+16, Fly Me to the Moon,1h 44m,6.6,49000.0,Romance
+17, Love Lies Bleeding,1h 37m,6.6,56000.0,Romance
+18, F*** Marry Kill,1h 28m,5.3,2200.0,Romance
+19, Chosen Family,1h 51m,4.7,359000.0,Romance
+20, A Family Affair,1h 58m,5.4,36000.0,Romance
+21, All We Imagine as Light,1h 44m,7.1,9400.0,Romance
+22, Upgraded,2h 46m,6.1,29000.0,Romance
+23, Beating Hearts,1h 47m,7.0,4500.0,Romance
+24, Emmanuelle,2h 19m,4.2,1500.0,Romance
+25, La cocina,1h 58m,7.2,2700.0,Romance
+26, Culpa Tuya,1h 31m,5.2,13000.0,Romance
+27, Die Alone,1h 58m,5.7,2800.0,Romance
+28, Someone Like You,2h 9m,5.8,2100.0,Romance
+29, Young Woman and the Sea,1h 35m,7.5,17000.0,Romance
+30, Killer Heat,1h 41m,5.6,13000.0,Romance
+31, Loveable,1h 39m,7.9,1600.0,Romance
+32, Sidelined: The QB and Me,1h 43m,5.9,3600.0,Romance
+33, Your Monster,1h 34m,6.4,5700.0,Romance
+34, Lonely Planet,1h 27m,5.7,11000.0,Romance
+35, Darkest Miriam,2h 21m,6.8,55000.0,Romance
+36, Teri Baaton Mein Aisa Uljha Jiya,1h 39m,6.2,54000.0,Romance
+37, Lilies Not for Me,1h 41m,7.8,106000.0,Romance
+38, Lisa Frankenstein,1h 31m,6.1,28000.0,Romance
+39, Love Me,1h 40m,5.1,2400.0,Romance
+40, Girl Haunts Boy,1h 28m,6.3,2900.0,Romance
+41, Mother of the Bride,1h 37m,4.8,17000.0,Romance
+42, Winter Spring Summer or Fall,1h 43m,7.0,481000.0,Romance
+43, The Tearsmith,1h 36m,5.2,12000.0,Romance
+44, Grafted,1h 41m,5.6,2200.0,Romance
+45, Our Little Secret,1h 59m,5.7,23000.0,Romance
+46, Guilty Pleasure,2h 8m,5.9,113000.0,Romance
+47, Grand Tour,1h 39m,6.6,1500.0,Romance
+48, Turn Me On,2h 1m,5.6,500000.0,Romance
+49, Touch,1h 15m,7.4,5300.0,Romance
+50, Lick,1h 34m,6.3,771000.0,Romance
+51, The Greatest Hits,1h 45m,6.2,7300.0,Romance
+52, Through My Window: Looking at You,1h 58m,5.4,5200.0,Romance
+53, Girls Will Be Girls,1h 49m,7.1,2400.0,Romance
+54, Gelin Takimi,1h 33m,3.2,2500.0,Romance
+55, Irish Wish,1h 33m,5.2,21000.0,Romance
+56, Find Me Falling,1h 40m,6.3,13000.0,Romance
+57, Beautiful Wedding,1h 39m,4.1,4100.0,Romance
+58, The Best Christmas Pageant Ever,1h 51m,6.8,6100.0,Romance
+59, Turtles All the Way Down,1h 38m,6.6,6900.0,Romance
+60, The Glassworker,1h 5m,7.4,1700.0,Romance
+61, This Is Me Now,1h 32m,4.1,7100.0,Romance
+62, Hot Frosty,1h 40m,5.3,15000.0,Romance
+63, Role Play,1h 37m,5.5,19000.0,Romance
+64, My Favourite Cake,1h 43m,7.4,7100.0,Romance
+65, Vulgar,1h 34m,5.4,122000.0,Romance
+66, The Dead Thing,1h 45m,4.7,884000.0,Romance
+67, Players,1h 58m,5.7,12000.0,Romance
+68, Wallbanger,1h 41m,5.6,657000.0,Romance
+69, High Tide,2h 5m,6.6,547000.0,Romance
+70, Sex,1h 34m,6.6,965000.0,Romance
+71, Boot Camp,1h 26m,5.8,1100.0,Romance
+72, Swap,1h 56m,2.9,341000.0,Romance
+73, This Time Next Year,1h 50m,5.6,2200.0,Romance
+74, A True Gentleman,1h 58m,4.5,2100.0,Romance
+75, Love in the Big City,1h 50m,7.5,1400.0,Romance
+76, We're All Gonna Die,1h 27m,8.2,91000.0,Romance
+77, The Merry Gentlemen,2h 10m,4.8,10000.0,Romance
+78, Pedro Páramo,1h 34m,6.3,2900.0,Romance
+79, Jane Austen Wrecked My Life,1h 29m,6.4,171000.0,Romance
+80, Timestalker,1h 38m,5.5,2900.0,Romance
+81, How to Date Billy Walsh,1h 22m,5.2,3900.0,Romance
+82, Cinderella's Curse,1h 28m,3.3,1300.0,Romance
+83, Romance on the Ranch,1h 49m,6.8,310000.0,Romance
+84, Pure Love,1h 25m,7.2,142000.0,Romance
+85, Cinderella's Revenge,1h 39m,3.7,1100.0,Romance
+86, Marmalade,1h 56m,6.3,3500.0,Romance
+87, The Astronaut Lovers,1h 40m,7.1,596000.0,Romance
+88, Ashes,1h 42m,4.3,2600.0,Romance
+89, Take My Hand,2h 10m,6.3,301000.0,Romance
+90, Uranus 2324,1h 53m,6.5,4800.0,Romance
+91, Dandelion,1h 40m,5.3,398000.0,Romance
+92, Samana Sunrise,2h 36m,5.1,146000.0,Romance
+93, Premalu,1h 42m,7.8,19000.0,Romance
+94, City Hunter,2h 13m,6.3,5600.0,Romance
+95, White Snake: Afloat,1h 34m,6.9,461000.0,Romance
+96, Books & Drinks,1h 45m,6.3,93000.0,Romance
+97, Gone Running,1h 49m,7.1,4000.0,Romance
+98, Hear Me: Our Summer,1h 38m,7.5,652000.0,Romance
+99," Love, Divided",,5.9,4600.0,Romance
+0, No Other Land,1h 32m,8.3,11000.0,Documentary
+1, Secret Mall Apartment,1h 31m,7.5,226000.0,Documentary
+2, 2073,1h 25m,5.1,1700.0,Documentary
+3, The Remarkable Life of Ibelin,1h 43m,8.2,12000.0,Documentary
+4, One to One: John & Yoko,1h 40m,7.0,91000.0,Documentary
+5, The Menendez Brothers,1h 59m,7.0,9100.0,Documentary
+6, Cheech and Chong's Last Movie,2h 3m,7.6,46000.0,Documentary
+7, Soundtrack to a Coup d'Etat,2h 30m,7.7,2700.0,Documentary
+8, Mogwai: If the Stars Had a Sound,1h 32m,7.5,67000.0,Documentary
+9, Black Box Diaries,1h 42m,7.5,3300.0,Documentary
+10, Will & Harper,1h 54m,7.4,12000.0,Documentary
+11, Grand Theft Hamlet,1h 29m,6.9,1800.0,Documentary
+12, The Last Journey,1h 35m,7.9,5100.0,Documentary
+13, Sugarcane,1h 47m,7.0,3200.0,Documentary
+14, Super/Man: The Christopher Reeve Story,1h 44m,8.0,9000.0,Documentary
+15, Am I Racist?,1h 40m,6.7,17000.0,Documentary
+16, Every Little Thing,1h 33m,7.1,241000.0,Documentary
+17, Liza: A Truly Terrific Absolutely True Story,1h 44m,7.7,184000.0,Documentary
+18, Checkpoint Zoo,1h 43m,8.3,53000.0,Documentary
+19, Janis Ian: Breaking Silence,1h 54m,8.1,51000.0,Documentary
+20, Buy Now! The Shopping Conspiracy,1h 24m,6.7,6300.0,Documentary
+21, Behind the Lines,1h 47m,8.7,10000.0,Documentary
+22, Beatles '64,1h 46m,7.2,2500.0,Documentary
+23, Brats,1h 32m,6.5,6900.0,Documentary
+24, Afternoons of Solitude,2h 5m,7.3,398000.0,Documentary
+25, The Lost Children,1h 36m,7.0,2700.0,Documentary
+26, Jesus Crown of Thorns,1h 35m,5.7,60000.0,Documentary
+27, Yacht Rock: A Dockumentary,1h 27m,7.6,1800.0,Documentary
+28, What Jennifer Did,1h 24m,6.1,11000.0,Documentary
+29, The Thinking Game,1h 24m,7.5,150000.0,Documentary
+30, A New Kind of Wilderness,1h 35m,7.6,1200.0,Documentary
+31, Swamp Dogg Gets His Pool Painted,1h 30m,8.5,51000.0,Documentary
+32, Lover Stalker Killer,1h 42m,7.0,13000.0,Documentary
+33, The Program,1h 22m,7.2,755000.0,Documentary
+34, Sweet Bobby: My Catfish Nightmare,1h 27m,6.2,5600.0,Documentary
+35, Porcelain War,1h 8m,7.1,1200.0,Documentary
+36, Dahomey,1h 24m,6.8,2500.0,Documentary
+37, Tom Petty: Heartbreakers Beach Party,1h 35m,7.4,217000.0,Documentary
+38, Avicii - I'm Tim,1h 18m,7.8,6800.0,Documentary
+39, Bambi: A Tale of Life in the Woods,1h 28m,5.7,161000.0,Documentary
+40, How to Rob a Bank,1h 43m,6.6,4200.0,Documentary
+41, Endurance,1h 30m,7.5,1600.0,Documentary
+42, We Will Dance Again,1h 34m,7.6,11000.0,Documentary
+43, Twiggy,1h 36m,7.5,68000.0,Documentary
+44, The Greatest Night in Pop,1h 51m,7.9,15000.0,Documentary
+45, Tom Dustin: Portrait of a Comedian,1h 17m,8.0,1900.0,Documentary
+46, Billy & Molly: An Otter Love Story,1h 55m,7.2,468000.0,Documentary
+47, Riefenstahl,1h 45m,6.9,26000.0,Documentary
+48, Incandescence,1h 55m,7.5,1100.0,Documentary
+49, The Bibi Files,1h 23m,7.2,652000.0,Documentary
+50, Blink,2h 8m,7.0,158000.0,Documentary
+51, Pavements,1h 24m,6.2,258000.0,Documentary
+52, To Dye For: The Documentary,1h 33m,7.3,2700.0,Documentary
+53, The Blue Angels,1h 51m,7.7,3800.0,Documentary
+54, Jim Henson: Idea Man,1h 19m,6.6,3200.0,Documentary
+55, Hack Your Health: The Secrets of Your Gut,1h 2m,7.5,2600.0,Documentary
+56, The Bloody Hundredth,1h 27m,7.5,1500.0,Documentary
+57, Frida,1h 48m,7.6,1600.0,Documentary
+58, Daughters,1h 45m,8.2,4700.0,Documentary
+59, Music by John Williams,1h 29m,7.4,1400.0,Documentary
+60, Bad Faith,1h 25m,7.1,167000.0,Documentary
+61, Gaucho Gaucho,1h 30m,7.4,1100.0,Documentary
+62, Witches,1h 30m,5.8,124000.0,Documentary
+63, The Great Warning,1h 28m,6.4,3100.0,Documentary
+64, Jailbreak: Love on the Run,1h 40m,7.1,3500.0,Documentary
+65, Skywalkers: A Love Story,1h 41m,8.2,818000.0,Documentary
+66, Luther: Never Too Much,55m,7.1,800000.0,Documentary
+67," My Wife, My Abuser: The Secret Footage",1h 28m,7.5,1400.0,Documentary
+68, ¡Casa Bonita Mi Amor!,2h,7.8,897000.0,Documentary
+69, Hayao Miyazaki and the Heron,1h 28m,7.9,74000.0,Documentary
+70, Bad River,1h 37m,9.0,17000.0,Documentary
+71, Marcella,51m,8.4,2200.0,Documentary
+72, Chhava,1h 49m,6.3,1100.0,Documentary
+73, Stormy,1h 37m,7.4,86000.0,Documentary
+74, I Could Never Go Vegan,1h 45m,5.5,533000.0,Documentary
+75, Look Into My Eyes,1h 42m,6.5,1900.0,Documentary
+76, Elton John: Never Too Late,1h 38m,7.3,2400.0,Documentary
+77, Apollo 13: Survival,1h 15m,7.2,656000.0,Documentary
+78, Getting Lost,1h 33m,9.2,19000.0,Documentary
+79, The Other Side of Edinburgh,1h 55m,7.2,2200.0,Documentary
+80, Inside the Mind of a Dog,1h,7.2,1100.0,Documentary
+81, Agent of Happiness,1h 30m,7.2,4000.0,Documentary
+82, Martha,1h 35m,6.1,19000.0,Documentary
+83, Brendan Gleeson's Farewell to Hughes's,1h 52m,6.9,20000.0,Documentary
+84, Wicked: The Real Story,1h 25m,7.6,234000.0,Documentary
+85, Songs of Slow Burning Earth,1h 30m,8.0,521000.0,Documentary
+86, From Ground Zero,1h 43m,6.1,1400.0,Documentary
+87, Biggest Heist Ever,1h 49m,7.3,786000.0,Documentary
+88, ZEF: The Story of Die Antwoord,1h 53m,7.3,1000.0,Documentary
+89, The Commandant's Shadow,1h 16m,8.3,1700.0,Documentary
+90, Giannis: The Marvelous Journey,2h 59m,7.1,2100.0,Documentary
+91, The Beach Boys,1h 50m,6.2,4000.0,Documentary
+92, Einstein and the Bomb,1h 30m,7.2,5800.0,Documentary
+93, The Roast of Tom Brady,1h 33m,6.6,191000.0,Documentary
+94, El Apocalipsis de San Juan,2h,5.2,22000.0,Documentary
+95, The Last Keeper,4h 42m,4.7,357000.0,Documentary
+96, Emma and Eddie: A Working Couple,1h 48m,9.4,80000.0,Documentary
+97, Just a Bit Outside: The Story of the 1982 Milwaukee Brewers,,8.2,531000.0,Documentary
+98, Aliens Expanded,,8.1,42000.0,Documentary
+99, The Propagandist,,,,Documentary

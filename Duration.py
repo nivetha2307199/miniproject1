@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
-import mysql.connector
+import pymysql
 import matplotlib.pyplot as plt 
 def duration_visual():
-    mydb = mysql.connector.connect(host="localhost",user="root", password="root@2024",database='imdbmoviedata')
+    mydb = pymysql.connect(host="localhost",user="root", password="root@2024",database='imdbmoviedata')
     mycursor = mydb.cursor()
     mycursor.execute("SELECT Title,Duration,Genre FROM finaldataset")
     myresult = mycursor.fetchall()

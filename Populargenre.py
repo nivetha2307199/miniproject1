@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
-import mysql.connector
+import pymysql
 import matplotlib.pyplot as plt
 import plotly.express as px
 import seaborn as sns
 def voting():
-    mydb = mysql.connector.connect(host="localhost",user="root", password="root@2024",database='imdbmoviedata')
+    mydb = pymysql.connect(host="localhost",user="root", password="root@2024",database='imdbmoviedata')
     mycursor = mydb.cursor()
     mycursor.execute("SELECT Genre,Voting FROM finaldataset")
     myresult = mycursor.fetchall()

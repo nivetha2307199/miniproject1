@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
-import mysql.connector
+import pymysql
 def genre_visual():
-    mydb = mysql.connector.connect(host="localhost",user="root", password="root@2024",database='imdbmoviedata')
+    mydb = pymysql.connect(host="localhost",user="root", password="root@2024",database='imdbmoviedata')
     mycursor = mydb.cursor()
     mycursor.execute("SELECT COUNT(*)Title FROM finaldataset GROUP BY Genre")
     myresult = mycursor.fetchall()
